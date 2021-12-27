@@ -5,3 +5,5 @@ This project was created to observe and analyze Covid 19 cases in 2021. During m
 
 The dataset I use belongs to the World Health Organization and you can reach the download page from this link:
 https://covid19.who.int/info/
+or you can directly download it from this link:
+ https://covid19.who.int/WHO-COVID-19-global-data.csv
